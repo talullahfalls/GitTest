@@ -6,9 +6,8 @@
 <head runat="server">
 
     <title></title>
-     <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/jquery-1.9.1.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
-   
     <link href="Content/bootstrap.css" rel="stylesheet" />
 
     <asp:ContentPlaceHolder id="head" runat="server">
